@@ -1,0 +1,14 @@
+[
+    {
+      "relation": [
+        "delegate_permission/common.handle_all_urls"
+      ],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.grandezsoft.iptv_pro_player",
+        "sha256_cert_fingerprints": [
+          "87:13:EB:1E:C2:A1:F4:06:85:4A:9D:16:2D:95:52:C4:38:A2:BF:07:A1:68:4B:6C:CE:B4:BD:25:13:22:5F:79"
+        ]
+      }
+    }
+]
